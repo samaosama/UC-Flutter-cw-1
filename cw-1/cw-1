@@ -1,1 +1,13 @@
-
+void main() {
+ String first_name='Sama';
+  String last_name='Khaleel';
+  int age=16;
+  String hobby='programming';
+  
+  print('''
+  First Name: $first_name
+  Last Name: $last_name
+  Age: $age
+  Hobby: $hobby
+  ''');
+}

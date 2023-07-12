@@ -1,0 +1,7 @@
+void main() {
+  
+  double tempF= 80.0;
+  var tempC= (tempF) / 1.8 ;
+  
+  print(tempC);
+}
